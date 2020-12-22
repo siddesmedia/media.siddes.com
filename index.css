@@ -889,12 +889,6 @@ a.link:hover {
     top: 0;
 }
 
-@media screen and (max-width: 500px) {
-    .demo {
-        display: none;
-    }
-}
-
 /* .links a:nth-of-type(1) {
   display: block;
   width: 140px;
